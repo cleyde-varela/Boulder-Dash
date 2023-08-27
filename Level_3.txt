@@ -1,0 +1,12 @@
+4 14
+WWWWWWWWWWWWWW
+WOOOOOOOOLLOWW
+WWWLLOOOLLWWWW
+WWWWOOOLLLWWWW
+J 1 2 % posiçªo do jogador
+D 1 6 % um diamante
+D 2 7 2 4 % um diamante
+E 2 3 % um inimigo que se move aleatoriamente dentro das posiçıes livres (chªo livre)
+I 2 9 % posiçªo com inimigo imóvel
+P 3 7 % um pedregulho
+B 3 3 3 4 % dois bónus de pontuaçªos
