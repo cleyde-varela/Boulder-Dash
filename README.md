@@ -19,6 +19,16 @@ I had a paper with some points that I had to implement in a specific way in orde
 * When the character collects a diamond it disappears and the points go up (point s = N D iamond s ∗ 100 − 5 ∗ N M ov e me nt s).
 * When the character touches an enemy the level reinitiates.
 
+
+## 📌 Take a look
+<img width="260" alt="Screenshot 2023-08-29 165833" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/b7fe2459-2812-42af-b6c1-17aedf5ef267">
+
+<img width="503" alt="Screenshot 2023-08-29 165915" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/cbccf2d1-c791-4e50-bccf-a40d34ae9805">
+
+<img width="665" alt="Screenshot 2023-08-29 170005" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/f38f5805-3467-48e8-9759-b89f5c39125a">
+
+<img width="425" alt="Screenshot 2023-08-29 170040" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/0318a2b0-f569-4ecc-93d2-3929aa43b81e">
+
 ## 📌 How to use it
 You can run the code on your local machine using Intellij for example. Happy gaming!👋
 
