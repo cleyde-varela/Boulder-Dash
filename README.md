@@ -25,6 +25,7 @@ I had a paper with some points that I had to implement in a specific way in orde
 
 <img width="503" alt="Screenshot 2023-08-29 165915" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/cbccf2d1-c791-4e50-bccf-a40d34ae9805">
 
+
 <img width="665" alt="Screenshot 2023-08-29 170005" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/f38f5805-3467-48e8-9759-b89f5c39125a">
 
 <img width="425" alt="Screenshot 2023-08-29 170040" src="https://github.com/cleyde-varela/Boulder-Dash/assets/83819524/0318a2b0-f569-4ecc-93d2-3929aa43b81e">
